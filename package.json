@@ -1,0 +1,30 @@
+{
+  "name": "node-mongodump-s3",
+  "version": "1.0.0",
+  "description": "A utility to backup/dump mongo database to amazon s3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongo",
+    "mongodb",
+    "s3",
+    "amazons3",
+    "aws"
+  ],
+  "author": "Jahid( hello@jahid.dev )",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.391.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jahidanowar/mongodb-dump-backup-aws-s3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jahidanowar/mongodb-dump-backup-aws-s3/issues"
+  },
+  "homepage": "https://github.com/jahidanowar/mongodb-dump-backup-aws-s3#readme"
+}
