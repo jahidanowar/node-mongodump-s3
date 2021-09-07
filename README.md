@@ -1,8 +1,8 @@
-# Mongo Dump S3
+# Bakcup and Uplaod MongoDB to AWS S3
 
 ### What can it do ?
 
-A utility to backup mongodb database to amazon s3
+A package to backup mongodb database to amazon s3 bucket
 
 ### How do I get set up?
 
